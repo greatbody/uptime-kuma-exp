@@ -159,6 +159,12 @@ Telegram Notification Sample:
 
 If you love this project, please consider giving it a ⭐.
 
+## ⚠️ Known Issues
+
+### NeatDownloadManager Extension
+
+The **NeatDownloadManager** browser extension may break the WebSocket connection used by Uptime Kuma's UI. If you experience connection issues or the dashboard fails to load, try disabling this extension. It is unclear whether this has been fixed in the latest version of the extension.
+
 ## 🗣️ Discussion / Ask for Help
 
 ⚠️ For any general or technical questions, please don't send me an email, as I am unable to provide support in that manner. I will not respond if you ask questions there.
